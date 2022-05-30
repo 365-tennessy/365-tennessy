@@ -26,11 +26,8 @@ person["fav colour"]="red"
 print(f'{person["name"]} {person["age"]} {person["fav colour"]}')
 
 
-#looping over dictionaries
-for key, value in person.items():
-    print(f'("value")("key")')
 
-#Print all colours in uppercase    
+    
 
 
 
