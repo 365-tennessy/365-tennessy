@@ -1,6 +1,6 @@
 #condition
 
-age=(int(input("what is your age ? "))
+age=int(input("what is your age ? "))
 
 
 
